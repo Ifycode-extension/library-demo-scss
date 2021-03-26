@@ -2,4 +2,12 @@
   color: red;
 }
 
+.btn-style {
+  background: teal;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  border: 0;
+}
+
 /*# sourceMappingURL=styles.css.map */
