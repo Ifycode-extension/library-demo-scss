@@ -1,7 +1,7 @@
 {
   "name": "library-demo-scss",
   "version": "0.0.0",
-  "description": "Demo SCSS library created to teach the content of... Add article link here",
+  "description": "Demo SCSS library created to help follow along the tutorial in the article - Quick, effective and efficient way to test your separately hosted css library on your client, during development (SCSS version)",
   "main": "css/styles.css",
   "scripts": {
     "start": "npm-run-all --parallel scss",
